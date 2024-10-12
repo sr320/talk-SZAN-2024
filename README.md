@@ -15,6 +15,8 @@ See Lab Website for more info: <https://faculty.washington.edu/sr320/>
 
 ## Relevant Citations Mentioned
 
+Venkataraman, Y. R., Huffmyer, A. S., White, S. J., Downey-Wall, A., Ashey, J., Becker, D. M., Bengtsson, Z., Putnam, H. M., Strand, E., Rodríguez-Casariego, J. A., Wanamaker, S. A., Lotterhos, K. E., & Roberts, S. B. (2024). DNA methylation correlates with transcriptional noise in response to elevated pCO₂ in the eastern oyster (Crassostrea virginica). bioRxiv. https://doi.org/10.1101/2024.04.04.588108
+
 Bogan, S. N., Johns, J., Griffiths, J. S., Davenport, D., Smith, S. J., Schaal, S. M., Downey-Wall, A., Lou, R. N., Lotterhos, K., Guidry, M. E., Rivera, H. E., McGirr, J. A., Puritz, J. B., Roberts, S. B., & Silliman, K. (2023). A dynamic web resource for robust and reproducible genomics in nonmodel species: marineomics.io. Methods in Ecology and Evolution, 00, 1–8. https://doi.org/10.1111/2041-210X.14219
 
 Katherine Silliman and others, Epigenetic and Genetic Population Structure is Coupled in a Marine Invertebrate, Genome Biology and Evolution, Volume 15, Issue 2, February 2023, evad013, https://doi.org/10.1093/gbe/evad013
